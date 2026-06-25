@@ -3,15 +3,49 @@
 <section xml:id="notes-week-01">
   <title>Week 1</title>
 
-  <introduction>
-    <p>
-      This is an outline of the topics we covered in the first week of class.
-    </p>
-  </introduction>
-
-  <!-- Can also be <handout> instead of <subsection> to get a printable version -->
   <subsection>
-    <title>Monday 8/22</title>
+    <title>Monday</title>
+
+    <p>
+In many problems we can bypass a
+<m>
+    u
+</m>
+-substitution if we know that the antiderivative involves a particular function. For example, in the integration problem
+<m>
+    \int e^{3x}\ dx
+</m>
+we know that the antiderivative involves
+<m>
+    e^{3x}
+</m>
+since the derivative of
+<m>
+    e^{3x}
+</m>
+is
+<m>
+    3 e^{3x}.
+</m>
+We could use a
+<m>
+    u
+</m>
+-substitution with
+<m>
+    u=3x,
+</m>
+however it's much easier to observe that the antiderivative involves
+<m>
+    e^{3x}
+</m>
+and then we can multiply or divide by a constant to arrive at the correct antiderivative.
+    </p>
+  </subsection>
+
+
+  <subsection>
+    <title>Wednesday</title>
 
     <p>
     </p>
@@ -19,17 +53,11 @@
 
 
   <subsection>
-    <title>Wednesday 8/24</title>
-
-    <p>
-    </p>
-  </subsection>
-
-
-  <subsection>
-    <title>Friday 8/26</title>
+    <title>Friday</title>
 
     <p>
     </p>
   </subsection>
 </section>
+
+
