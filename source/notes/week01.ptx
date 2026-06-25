@@ -44,14 +44,87 @@ and then we can multiply or divide by a constant to arrive at the correct antide
   </subsection>
 
 
-  <subsection>
-    <title>Wednesday</title>
+  <dl>
+      <li>
+          <title/>
+          <p>
+              <alert>Problem I:</alert> Integrate by inspection.
+          </p>
 
-    <p>
-    </p>
-  </subsection>
+          <p>
+              <dl>
+                  <li>
+                      <title>(a)</title>
 
+                      <p>
+                          <m>\displaystyle \int e^{4x}\ dx</m>
+                      </p>
+                  </li>
 
+                  <li>
+                      <title>(b)</title>
+
+                      <p>
+                          <m>\displaystyle \int e^{-x/2}\ dx</m>
+                      </p>
+                  </li>
+
+                  <li>
+                      <title>(c)</title>
+
+                      <p>
+                          <m>\displaystyle \int \sec^{2} (3x) \ dx</m>
+                      </p>
+
+                      <p/>
+                  </li>
+
+                  <li>
+                      <title>(d)</title>
+
+                      <p>
+                          <m>\displaystyle \int \sin \pi x \ dx</m>
+                      </p>
+                  </li>
+
+                  <li>
+                      <title>(e)</title>
+
+                      <p>
+                          <m>\displaystyle \int \cos \frac{\theta}{2}\ d \theta</m>
+                      </p>
+                  </li>
+              </dl>
+          </p>
+      </li>
+
+      <li>
+          <title/>
+          <p>
+              <alert>Try it on your own!</alert>
+          </p>
+
+          <p>
+              <dl>
+                  <li>
+                      <title>(a)</title>
+
+                      <p>
+                          <m>\displaystyle \int e^{-9x}\ dx</m>
+                      </p>
+                  </li>
+
+                  <li>
+                      <title>(b)</title>
+
+                      <p>
+                          <m>\displaystyle \int \cos 3x \ dx</m>
+                      </p>
+                  </li>
+              </dl>
+          </p>
+      </li>
+  </dl>
   <subsection>
     <title>Friday</title>
 
